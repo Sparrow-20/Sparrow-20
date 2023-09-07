@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sparrow-20
+- 👋 Hi, I’m Danny
 - 👀 I’m interested in app developmemt and web developmet
 - 🌱 I’m currently learning Software engeneering 
 - 💞️ I’m looking to collaborate on upcoming projects
